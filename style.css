@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-image: url('https://st3.depositphotos.com/14759872/18736/v/1600/depositphotos_187360512-stock-illustration-chat-bot-using-laptop-computer.jpg');
+    /* background-size: 100vw;
+    background-repeat: no-repeat;   */
+    background-attachment: fixed; 
+    background-position: center;
+}
+
+#ResponseText{
+    color: aliceblue;
+    text-align: center;
+}
+
+#InputBox{
+    background-color: black;
+    color: antiquewhite;
+    width: 720px;
+    text-align: center;
+    font-size: large;
+    /* border: none; */
+    /* align-self: center; */
+    position: absolute;
+    top: 25%;
+    left: 27%;
+    height: 50px;
+    /* transform: translate(-50%, -50%); */
+}
